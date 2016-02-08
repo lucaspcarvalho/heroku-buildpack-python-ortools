@@ -203,6 +203,9 @@ source $BIN_DIR/steps/cryptography
 # GDAL support.
 source $BIN_DIR/steps/gdal
 
+# ortools support.
+source $BIN_DIR/steps/ortools
+
 # Install dependencies with Pip.
 source $BIN_DIR/steps/pip-install
 
